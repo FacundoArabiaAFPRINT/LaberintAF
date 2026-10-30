@@ -1,0 +1,28 @@
+---,Nombre,Ranura,Danio,Alcance,Barrido,Enfriamiento,Nivel,Aturde,ProbAturdir,Empuje,Velocidad,Cargador,Luz,Armadura,Genero
+daga,Daga,melee,12,15,1.3,0.32,0,0,0,0,0,0,0,0,
+katana,Katana,melee,17,18,1.4,0.34,1,0,0,0,0,0,0,0,
+espada,Espada,melee,21,19,1.6,0.5,1,0,0,0,0,0,0,0,
+lanza,Lanza,melee,22,28,0.55,0.62,1,0,0,0,0,0,0,0,
+maza,Maza,melee,26,18,1.5,0.7,2,0.5,0.3,0,0,0,0,0,
+hacha,Hacha,melee,34,19,1.8,0.82,2,0,0,0,0,0,0,0,
+mandoble,Mandoble,melee,40,24,2.3,1,3,0,0,0,0,0,0,0,m
+martillo,Martillo de guerra,melee,48,20,1.6,1.15,3,0.8,0.5,9,0,0,0,0,m
+honda,Honda,ranged,10,0,0,0.5,0,0,0,0,0,0,0,0,
+arco,Arco,ranged,18,0,0,0.7,1,0,0,0,0,0,0,0,m
+ballesta,Ballesta,ranged,34,0,0,1.4,2,0,0,0,0,0,0,0,
+revolver,Revólver,ranged,28,0,0,0.5,3,0,0,0,0,6,0,0,m
+vela,Vela,lamp,0,0,0,0,0,0,0,0,0,0,72,0,
+farol,Farol,lamp,0,0,0,0,0,0,0,0,0,0,98,0,
+linterna,Linterna,lamp,0,0,0,0,0,0,0,0,0,0,130,0,
+sincasco,Sin casco,helmet,0,0,0,0,0,0,0,0,0,0,0,0,
+capucha,Capucha de cuero,helmet,0,0,0,0,0,0,0,0,0,0,0,0.06,
+yelmo,Yelmo de hierro,helmet,0,0,0,0,0,0,0,0,0,0,0,0.15,
+minero,Casco de minero,helmet,0,0,0,0,0,0,0,0,0,0,34,0.06,
+vigia,Casco de vigía,helmet,0,0,0,0,0,0,0,0,0,0,52,0.03,
+municion,Munición,ammo,0,0,0,0,0,0,0,0,0,0,0,0,
+bomba,Bomba,throw,0,0,0,0,0,0,0,0,0,0,0,0,
+molotov,Molotov,throw,0,0,0,0,0,0,0,0,0,0,0,0,
+bengala,Bengala,throw,0,0,0,0,0,0,0,0,0,0,0,0,
+humo,Bomba de humo,throw,0,0,0,0,0,0,0,0,0,0,0,0,
+venda,Venda,belt,0,0,0,0,0,0,0,0,0,0,0,0,
+punos,Puños,melee,6,12,1.3,0.3,-1,0,0,0,0,0,0,0,

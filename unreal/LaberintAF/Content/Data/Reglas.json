@@ -1,0 +1,68 @@
+{
+ "duracion": 900,
+ "duracionRapida": 480,
+ "farmeo": 120,
+ "jugadores": 10,
+ "etapasNiebla": [
+  [
+   180,
+   480
+  ],
+  [
+   360,
+   380
+  ],
+  [
+   540,
+   290
+  ],
+  [
+   690,
+   210
+  ],
+  [
+   810,
+   140
+  ]
+ ],
+ "eventos": [
+  90,
+  220,
+  370,
+  520,
+  680
+ ],
+ "eventosNombres": [
+  "sangre",
+  "apagon",
+  "horda",
+  "mercader",
+  "gallinas",
+  "cabezon",
+  "lluvia",
+  "niebla",
+  "maldito"
+ ],
+ "mapa": {
+  "celdas": [
+   19,
+   19
+  ],
+  "tamCelda": 4,
+  "tile": 16
+ },
+ "velocidades": {
+  "caminar": 58,
+  "correr": 88,
+  "rodar": 165,
+  "factorBots": 1.3
+ },
+ "bestias": 66,
+ "cofresCallejon": 40,
+ "armasTiradas": 42,
+ "trampas": {
+  "pinches": 22,
+  "barriles": 22
+ },
+ "escotillaSegundos": 10
+}

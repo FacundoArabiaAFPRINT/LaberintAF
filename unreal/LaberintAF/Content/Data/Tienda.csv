@@ -1,0 +1,16 @@
+---,Nombre,Descripcion,Precio
+s0,Poción,Cura 45 de vida,25
+s1,Venda,Corta el sangrado,12
+s2,Pata de palo,Reemplaza la pierna perdida: caminás casi normal. Se puede romper,90
+s3,Reparar arma,Deja como nueva el arma que tenés en la mano,25
+s4,Garfio,Reemplaza el brazo perdido: pegás casi como antes. Se puede romper,80
+s5,Munición x10,Para tu arma a distancia,20
+s6,Aceite,Llena tu luz,15
+s7,Linterna,Radio de luz grande,90
+s8,Casco de minero,Más luz y algo de protección,80
+s9,Ballesta,Daño 34 a distancia,110
+s10,Espada,Daño 21,70
+s11,Mandoble,"Daño 40, barrido amplio",160
+s12,Bomba,Explota al segundo de caer,30
+s13,Bomba de humo,Los cazadores te pierden de vista,25
+s14,Armadura,15% menos de daño,90
