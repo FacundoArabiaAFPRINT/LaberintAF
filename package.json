@@ -4,7 +4,8 @@
   "type": "module",
   "description": "Laberint AF: roguelite de terror en vista superior, en un solo archivo HTML.",
   "scripts": {
-    "test": "node tests/t-jefes.mjs && node tests/t-social.mjs && node tests/t-movil.mjs && node tests/t-sigilo.mjs && node tests/t-gore.mjs && node tests/t-inv.mjs && node tests/t-partida.mjs 120"
+    "test": "node tests/t-jefes.mjs && node tests/t-social.mjs && node tests/t-movil.mjs && node tests/t-sigilo.mjs && node tests/t-gore.mjs && node tests/t-inv.mjs && node tests/t-partida.mjs 120",
+    "exportar": "node tools/exportar-datos.mjs"
   },
   "devDependencies": {
     "playwright": "1.56.0"

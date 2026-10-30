@@ -1,0 +1,10 @@
+---,Nombre,Vida,Danio,Velocidad,Alerta,Oro,Radio,Jefe,Fantasma
+gallina,una gallina,6,0,39,0,3,2.5,false,false
+perro,un perro,26,6,65,110,6,4,false,false
+zombi,un zombi,60,11,24.7,80,9,4,false,false
+fantasma,un fantasma,34,9,36.4,100,12,4,false,true
+demonio,un demonio,95,16,42.9,100,26,5,false,false
+cria,una cría de araña,8,3,59.8,200,0,2,false,false
+jefe,el Guardián de la Cripta,900,30,32.5,130,260,9,true,false
+carnicero,el Carnicero,820,26,31.2,130,280,8,true,false
+bruja,la Bruja del Pantano,640,18,28.6,140,280,6,true,false
