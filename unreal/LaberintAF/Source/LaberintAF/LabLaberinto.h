@@ -39,7 +39,8 @@ class LABERINTAF_API ALabLaberinto : public AActor
 public:
 	ALabLaberinto();
 
-	static constexpr int32 CW = 19, CH = 19, CS = 4, TW = CW * CS + 1, TH = CH * CS + 1, MID = CW / 2;
+	// medidas de la grilla (como enumeración: MSVC no acepta constantes static en una clase exportada con LABERINTAF_API)
+	enum : int32 { CW = 19, CH = 19, CS = 4, TW = CW * CS + 1, TH = CH * CS + 1, MID = CW / 2 };
 
 	UPROPERTY(EditAnywhere, Category = "Laberinto") int32 Semilla = 0;   // 0 = una distinta cada partida
 	UPROPERTY(EditAnywhere, Category = "Laberinto|Aspecto") TObjectPtr<UStaticMesh> MallaMuro;
