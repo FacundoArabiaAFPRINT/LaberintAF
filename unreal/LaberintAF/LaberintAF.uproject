@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.5",
+	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "Laberint AF: roguelite de terror en vista superior (AF PRINT 3D).",
 	"Modules": [
