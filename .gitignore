@@ -1,2 +1,17 @@
 .salidas/
 node_modules/
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+# Unreal Engine: lo que se genera al compilar y al abrir el editor (pesa gigas)
+unreal/LaberintAF/Binaries/
+unreal/LaberintAF/Intermediate/
+unreal/LaberintAF/Saved/
+unreal/LaberintAF/DerivedDataCache/
+unreal/LaberintAF/Build/
+unreal/LaberintAF/Platforms/
+unreal/LaberintAF/.vs/
+unreal/LaberintAF/*.sln
