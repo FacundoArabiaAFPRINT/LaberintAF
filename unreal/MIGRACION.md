@@ -1,6 +1,6 @@
 # Laberint AF en Unreal Engine 5
 
-Guía para pasar el juego de la versión web (`index.html`) a **Unreal Engine 5.5**, con gráficos realistas. La versión web sigue siendo la referencia: todo lo que se juega ahí está descrito en `CLAUDE.md` y sus números están en las tablas de `LaberintAF/Content/Data/`.
+Guía para pasar el juego de la versión web (`index.html`) a **Unreal Engine 5.8** (empezó para 5.5 y se pasó a 5.8, la versión que instaló Facu), con gráficos realistas. La versión web sigue siendo la referencia: todo lo que se juega ahí está descrito en `CLAUDE.md` y sus números están en las tablas de `LaberintAF/Content/Data/`.
 
 ## Qué hay en esta carpeta
 
@@ -30,15 +30,15 @@ unreal/
 
 Programas (todos gratis):
 
-1. **Epic Games Launcher** → pestaña Unreal Engine → Biblioteca → instalar **Unreal Engine 5.5**.
-2. **Visual Studio 2022 Community** con las cargas de trabajo «Desarrollo de juegos con C++» (incluye el componente de Unreal Engine) y «Desarrollo para el escritorio con C++». Unreal la usa para compilar el código.
+1. **Epic Games Launcher** → pestaña Unreal Engine → Biblioteca → instalar **Unreal Engine 5.8**.
+2. **Visual Studio Community** (2026 o 2022) con las cargas de trabajo «Desarrollo de juegos con C++» (incluye el componente de Unreal Engine) y «Desarrollo para el escritorio con C++». Unreal la usa para compilar el código. Si al compilar dice que no encuentra un compilador compatible, en el *Visual Studio Installer* → Modificar → Componentes individuales sumá «MSVC v143 - VS 2022 C++ x64/x86 build tools» y el Windows 11 SDK más nuevo.
 3. **Git** (ya lo tenés si clonás el repositorio).
 
 Unreal es gratis hasta que el juego facture USD 1.000.000; después cobra el 5 %.
 
 ## Cómo abrirlo por primera vez
 
-1. Cloná el repositorio `LaberintAF` y entrá a `unreal/LaberintAF`.
+1. Cloná el repositorio `LaberintAF` en una ruta corta y sin espacios, fuera de OneDrive (por ejemplo `C:\Proyectos\LaberintAF`), y entrá a `unreal/LaberintAF`.
 2. Clic derecho en `LaberintAF.uproject` → **Generate Visual Studio project files**.
 3. Doble clic en `LaberintAF.uproject`. Va a decir que faltan módulos y preguntar si querés compilarlos: **Sí**. La primera vez tarda (5 a 20 minutos).
 4. Cuando abre el editor, apretá **Play** (o Alt+P). Arranca la partida: estás en el laberinto, de noche, con tu farol.
